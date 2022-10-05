@@ -1,2 +1,7 @@
 Hello World! 
 My name is Doan Thi Dieu Hang
+My gender is female
+I'm 21 years old
+I study at Danang University of Technology and Science
+My major is Information Technology
+I was born and grew up in Danang city
